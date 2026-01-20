@@ -1,6 +1,6 @@
 # Image Object Segmentation & Transformation
 
-## 📌 Project Overview
+##  Project Overview
 This project demonstrates an end-to-end **image processing pipeline** that performs:
 - Object detection and segmentation
 - Extraction of individual objects
@@ -10,7 +10,7 @@ The implementation is designed to run seamlessly on **Google Colab** using OpenC
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Segment multiple objects from a single image
 - Apply various geometric transformations
 - Visualize and save transformation results
@@ -18,7 +18,7 @@ The implementation is designed to run seamlessly on **Google Colab** using OpenC
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Python
 - OpenCV
 - NumPy
@@ -28,4 +28,4 @@ The implementation is designed to run seamlessly on **Google Colab** using OpenC
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
